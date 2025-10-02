@@ -92,7 +92,7 @@ const EmailNotification = ({ setMounted }) => {
                       </p>
 
                       <p className="text-center my-4 text-sm ">
-                        Your Citi account has a pending payment scheduled for
+                        Your account has a pending payment scheduled for
                         processing and will be deducted within 24 hours.
                       </p>
 
